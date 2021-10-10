@@ -1,4 +1,8 @@
-# Hi there 👋
+# Hola, soy Jean 👋
+![](https://github.com/jeangq24/jeangq24/blob/main/Screenshot_2021-10-07_22_25_26.jpg)
+Soy desarrollador web full stack, estoy hambriento de conocimiento y oportunidades que me ayuden a progresar en esta bonita labor. ¡Bienvenidos a mi Github!
+
+#Mis habilidades:
 
 <!--
 **jeangq24/jeangq24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
