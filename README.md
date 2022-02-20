@@ -14,7 +14,7 @@
 <a hred="jeangarzon24@gmail.com">
 
 <h3>Correo: <a>jeangarzon24@gmail.com</h3>
-<h4>Quito, Ecuador</h4>
+<h4>Bogota, Colombia</h4>
 
 <!--
 **jeangq24/jeangq24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
