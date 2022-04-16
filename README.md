@@ -6,9 +6,6 @@
 
 <img src="https://github.com/jeangq24/jeangq24/blob/main/css.jpg" alt="alt text" width="100px" height="100px">      <img src="https://github.com/jeangq24/jeangq24/blob/main/html.jpg" alt="alt text" width="100px" height="100px">      <img src="https://github.com/jeangq24/jeangq24/blob/main/js.png" alt="alt text" width="100px" height="100px">      <img src="https://github.com/jeangq24/jeangq24/blob/main/react.png" alt="alt text" width="100px" height="100px">      <img src="https://github.com/jeangq24/jeangq24/blob/main/redux.jpg" alt="alt text" width="100px" height="100px">  <img src="https://github.com/jeangq24/jeangq24/blob/main/node.jpg" alt="alt text" width="100px" height="100px">     <img src="https://github.com/jeangq24/jeangq24/blob/main/express.png" alt="alt text" width="100px" height="100px">      <img src="https://github.com/jeangq24/jeangq24/blob/main/postgres.png" alt="alt text" width="100px" height="100px">      <img src="https://github.com/jeangq24/jeangq24/blob/main/sequelize.png" alt="alt text" width="100px" height="100px">      <img src="https://github.com/jeangq24/jeangq24/blob/main/sql.jpg" alt="alt text" width="100px" height="100px">      <img src="https://github.com/jeangq24/jeangq24/blob/main/leaflet.png" alt="alt text" width="100px" height="100px">      <img src="https://github.com/jeangq24/jeangq24/blob/main/git.png" alt="alt text" width="100px" height="100px">
 
-# Actualmente aprendiendo:
-<img src="https://github.com/jeangq24/jeangq24/blob/main/reactnative.png" alt="alt text" width="100px" height="100px">
-
 # Contacto: 
 <a href="https://www.linkedin.com/in/jeangq24" target="_blank"> <img src="https://github.com/jeangq24/jeangq24/blob/main/linkedin.png" alt="alt text" width="100px" height="100px"></a>      <a href="https://github.com/jeangq24" target="_blank"> <img src="https://github.com/jeangq24/jeangq24/blob/main/github.png" alt="alt text" width="100px" height="100px"></a>
 <a hred="jeangarzon24@gmail.com">
