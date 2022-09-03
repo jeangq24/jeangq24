@@ -1,7 +1,6 @@
 # Hola, soy Jean 👋
 ![](https://github.com/jeangq24/jeangq24/blob/main/Screenshot_2021-10-07_22_25_26.jpg)
-¡Bienvenidos a mi Github!. Soy desarrollador web full stack, estoy hambriento de conocimiento y oportunidades que me ayuden a progresar en esta bonita labor.
-
+¡Bienvenidos a mi Github!. Soy desarrollador web full stack.
 # Mis habilidades:
 
 <img src="https://github.com/jeangq24/jeangq24/blob/main/css.jpg" alt="alt text" width="100px" height="100px">      <img src="https://github.com/jeangq24/jeangq24/blob/main/html.jpg" alt="alt text" width="100px" height="100px">      <img src="https://github.com/jeangq24/jeangq24/blob/main/js.png" alt="alt text" width="100px" height="100px">      <img src="https://github.com/jeangq24/jeangq24/blob/main/react.png" alt="alt text" width="100px" height="100px">      <img src="https://github.com/jeangq24/jeangq24/blob/main/redux.jpg" alt="alt text" width="100px" height="100px">  <img src="https://github.com/jeangq24/jeangq24/blob/main/node.jpg" alt="alt text" width="100px" height="100px">     <img src="https://github.com/jeangq24/jeangq24/blob/main/express.png" alt="alt text" width="100px" height="100px">      <img src="https://github.com/jeangq24/jeangq24/blob/main/postgres.png" alt="alt text" width="100px" height="100px">      <img src="https://github.com/jeangq24/jeangq24/blob/main/sequelize.png" alt="alt text" width="100px" height="100px">      <img src="https://github.com/jeangq24/jeangq24/blob/main/sql.jpg" alt="alt text" width="100px" height="100px">      <img src="https://github.com/jeangq24/jeangq24/blob/main/leaflet.png" alt="alt text" width="100px" height="100px">      <img src="https://github.com/jeangq24/jeangq24/blob/main/git.png" alt="alt text" width="100px" height="100px">
