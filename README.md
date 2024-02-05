@@ -7,7 +7,7 @@ ___
 console.log("¡Un placer tenerte por aqui!");
 ```
 
-[Soy Jean](https://github.com/jeangq24 "GitHub de Jean Garzon") 👋, interesado por el mundo de la tecnolgia, me gusta aprender y dedicar tiempo a superarme. Me especialicé en el desarrollo web del lado del cliente y del servidor junto a bases de datos relacionales y no relacionales, mi fuerte es javascript pero no estoy cerrado a una sola tecnología, también tengo experiencia con el soporte técnico.
+[Soy Jean](https://github.com/jeangq24 "GitHub de Jean Garzon") 👋, me especialicé en el desarrollo web del lado del cliente y del servidor junto a bases de datos relacionales y no relacionales, mi fuerte es javascript pero no estoy cerrado a una sola tecnología, también tengo experiencia con el soporte técnico.
 
 ## Mis habilidades
 
