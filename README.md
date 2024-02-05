@@ -42,7 +42,7 @@ Puedes **contactarme** haciendo **click** en cualquiera de los siguientes canale
 >Si lo puedes imaginar lo puedes programar - PROGRAMACION ATS.
 
 ```sql
-SELECT * FROM people WHERE attitude = 'good'
+SELECT * FROM people WHERE attitude = 'good';
 ```
 
 ```javascript
